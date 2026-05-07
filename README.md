@@ -1,7 +1,7 @@
 # 👨‍🍳 Chef-Code (Lonnie Teter)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Real-World+Systems;Tariff+Automation+Engineer;Geospatial+Systems+Builder;Owner+of+WDA+Movers;Software+Should+Respect+Operations" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Honk&size=30&duration=2500&pause=1000&color=2EF726&center=true&vCenter=true&width=500&lines=Tariff%2BAutomation%2BEngineer;Geospatial%2BSystems%2BBuilder;Owner%2Bof%2BWDA%2BMovers;Software%2BShould%2BRespect%2BOperations" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
