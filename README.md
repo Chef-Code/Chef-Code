@@ -31,7 +31,7 @@ Building real-world systems + software that actually works.
 
 ## 🧠 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chef-Code&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Chef-Code&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
