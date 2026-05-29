@@ -34,19 +34,25 @@
 
 ---
 
-# 📊 GitHub Stats
+<table>
+<tr>
+<td align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Chef-Code&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+### 📊 GitHub Stats
 
----
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Chef-Code&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-# 🔥 Current Streak
+</td>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Chef-Code&theme=tokyonight&hide_border=true" />
-</p>
+<td align="center">
+
+### 🔥 Current Streak
+
+<img src="https://streak-stats.demolab.com?user=Chef-Code&theme=tokyonight&hide_border=true"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
