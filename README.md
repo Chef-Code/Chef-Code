@@ -19,6 +19,7 @@
 - 📈 Focused on automation, logistics intelligence, and real-world tooling
 - 🏀 Basketball coach with a competitor mindset
 - ⚙️ Building software around actual operational constraints
+- 🧑‍🍳 Oh Yeah Im also a **Certified Chef** 🔪 **Mise En Place**
 
 ---
 
