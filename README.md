@@ -18,6 +18,7 @@
 - 💻 Background in **C#**, backend systems, and operational software
 - 📈 Focused on automation, logistics intelligence, and real-world tooling
 - 🏀 Basketball coach with a competitor mindset
+- 🎴 Hobby card collector. Still chasing that: **1/1 Superfractor Auto of Linus Torvalds** 
 - ⚙️ Building software around actual operational constraints
 - 🧑‍🍳 Oh Yeah Im also an **ACF Certified Chef** 🔪 **Mise En Place**
 
