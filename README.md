@@ -14,7 +14,7 @@
 
 - 🏢 Owner of WDA Movers (Eugene, OR)
 - 🧠 Building **WDA Systems** — Tariff-driven moving platform
-- 🗺️ Developing **OpenFence** — Geofencing + dispatch intelligence
+- 🗺️ Developing **OpenFence.AI** — Geofencing + dispatch intelligence
 - 💻 Background in **C#**, backend systems, and operational software
 - 📈 Focused on automation, logistics intelligence, and real-world tooling
 - 🏀 Basketball coach with a competitor mindset
